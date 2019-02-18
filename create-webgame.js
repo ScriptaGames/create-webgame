@@ -1,5 +1,12 @@
 #!/usr/bin/env node
 
-console.log('create-webgame is here');
+const yeoman = require('yeoman-environment');
+const env = yeoman.createEnv();
 
-// yo --no-insight --no-update-notifier webgame
+env.lookup(() => {
+  env.run('webgame', {}, err => {
+      if (err) {
+          throw err;
+      }
+  });
+});
