@@ -1,0 +1,27 @@
+{
+  "name": "create-webgame",
+  "version": "1.0.0",
+  "description": "Generate a web game project.",
+  "bin": "./create-webgame.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScriptaGames/create-webgame.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Michael Clayton",
+    "email": "mwc@clayto.com",
+    "url": "https://clayto.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScriptaGames/create-webgame/issues"
+  },
+  "homepage": "https://github.com/ScriptaGames/create-webgame#readme",
+  "dependencies": {
+    "generator-webgame": "^1.0.0"
+  }
+}
