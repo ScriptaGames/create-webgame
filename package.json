@@ -1,6 +1,6 @@
 {
   "name": "create-webgame",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate a web game project.",
   "bin": "./create-webgame.js",
   "scripts": {
