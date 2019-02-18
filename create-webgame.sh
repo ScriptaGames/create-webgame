@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-yo --no-insight --no-update-notifier webgame
+npx yo --no-insight --no-update-notifier webgame
