@@ -1,6 +1,6 @@
 {
   "name": "create-webgame",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a web game project.",
   "bin": "./create-webgame.sh",
   "scripts": {
